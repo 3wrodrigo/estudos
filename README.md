@@ -1,5 +1,12 @@
 #Resoluções de Aprendizado 2016
 
+##Fazer 10 cursos (2/10)
+
+1. Tipografia Avançada
+2. Web Design Completo
+
+-------------------------------------------
+
 
 ##Ler 10 Livros sobre design (1/10)
 
