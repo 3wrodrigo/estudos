@@ -17,7 +17,7 @@
 ##Ler 5 Livros sobre marketing (1/5)
 
 1. SEO Prático Seu site na primeira página das buscas
-2. Freakonomic
+
 
 -------------------------------------------
 
@@ -25,9 +25,10 @@
 
 -------------------------------------------
 
-##Ler 200 artigos (1/200)
+##Ler 200 artigos (2/200)
 
 1. http://zellwk.com/blog/media-query-units/?utm_source=CSS-Weekly&utm_campaign=Issue-207&utm_medium=email
+2. http://webdesign.tutsplus.com/articles/creative-examples-of-geometric-web-design-styles--cms-26649?utm_source=facebook&utm_medium=social&utm_campaign=tutswebdesign
 
 -------------------------------------------    
 
