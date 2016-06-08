@@ -46,4 +46,6 @@
 
 -------------------------------------------
 
-##Palestrar 2 vezes (0/2)
+##Assitir 20 vídeos (1/20)
+
+1. https://youtu.be/BDIwejM1SSk
