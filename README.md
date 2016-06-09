@@ -21,15 +21,19 @@
 
 -------------------------------------------
 
-##Ler 20 Livros sobre desenvolvimento (0/20)
+##Ler 20 Livros sobre desenvolvimento (1/20)
+
+1. CSS Eficiente
+
 
 -------------------------------------------
 
-##Ler 200 artigos (3/200)
+##Ler 200 artigos (4/200)
 
 1. http://zellwk.com/blog/media-query-units/?utm_source=CSS-Weekly&utm_campaign=Issue-207&utm_medium=email
 2. http://webdesign.tutsplus.com/articles/creative-examples-of-geometric-web-design-styles--cms-26649?utm_source=facebook&utm_medium=social&utm_campaign=tutswebdesign
 3. https://medium.com/ui-lab-school/https-medium-com-carlyson-ferramentas-essenciais-para-um-designer-web-5b630add8649#.50x1q3xu5
+4. http://www.creativebloq.com/web-design/features-transforming-how-we-use-css-31619494
 
 -------------------------------------------    
 
