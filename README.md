@@ -21,9 +21,10 @@
 
 -------------------------------------------
 
-##Ler 20 Livros sobre desenvolvimento (1/20)
+##Ler 20 Livros sobre desenvolvimento (2/20)
 
 1. CSS Eficiente
+2. Bootstrap 3
 
 
 -------------------------------------------
