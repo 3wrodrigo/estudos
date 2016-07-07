@@ -29,7 +29,7 @@
 
 -------------------------------------------
 
-##Ler 200 artigos (5/200)
+##Ler 200 artigos (7/200)
 
 1. http://zellwk.com/blog/media-query-units/?utm_source=CSS-Weekly&utm_campaign=Issue-207&utm_medium=email
 2. http://webdesign.tutsplus.com/articles/creative-examples-of-geometric-web-design-styles--cms-26649?utm_source=facebook&utm_medium=social&utm_campaign=tutswebdesign
@@ -37,6 +37,7 @@
 4. http://www.creativebloq.com/web-design/features-transforming-how-we-use-css-31619494
 5. http://www.456bereastreet.com/archive/201603/why_i_dont_use_css_preprocessors/?utm_source=html5weekly&utm_medium=email
 6. http://arquiteturadeinformacao.com/usabilidade/a-favor-da-homogeneidade-no-design/?utm_content=buffer044fc&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+7. https://uxdesign.cc/design-better-forms-96fadca0f49c#.hpddgp2gb
 
 -------------------------------------------    
 
