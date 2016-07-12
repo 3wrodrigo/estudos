@@ -1,9 +1,11 @@
 #Resoluções de Aprendizado 2016
 
-##Fazer 10 cursos (2/10)
+##Fazer 10 cursos (4/10)
 
 1. Tipografia Avançada
 2. Web Design Completo
+3. WordPress Como CMS
+4. UX Design - Heurísticas
 
 -------------------------------------------
 
@@ -29,7 +31,7 @@
 
 -------------------------------------------
 
-##Ler 200 artigos (7/200)
+##Ler 200 artigos (10/200)
 
 1. http://zellwk.com/blog/media-query-units/?utm_source=CSS-Weekly&utm_campaign=Issue-207&utm_medium=email
 2. http://webdesign.tutsplus.com/articles/creative-examples-of-geometric-web-design-styles--cms-26649?utm_source=facebook&utm_medium=social&utm_campaign=tutswebdesign
@@ -38,6 +40,9 @@
 5. http://www.456bereastreet.com/archive/201603/why_i_dont_use_css_preprocessors/?utm_source=html5weekly&utm_medium=email
 6. http://arquiteturadeinformacao.com/usabilidade/a-favor-da-homogeneidade-no-design/?utm_content=buffer044fc&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 7. https://uxdesign.cc/design-better-forms-96fadca0f49c#.hpddgp2gb
+8. http://www.creativebloq.com/web-design/create-perfect-website-layout-system-121518553
+9. http://www.creativebloq.com/agencies/10-best-new-agency-websites-2016-so-far-71621255
+10. https://www.sitepoint.com/angular-2-tutorial/?utm_content=bufferc1305&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 
 -------------------------------------------    
 
