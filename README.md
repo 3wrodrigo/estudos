@@ -31,7 +31,7 @@
 
 -------------------------------------------
 
-##Ler 200 artigos (10/200)
+##Ler 200 artigos (12/200)
 
 1. http://zellwk.com/blog/media-query-units/?utm_source=CSS-Weekly&utm_campaign=Issue-207&utm_medium=email
 2. http://webdesign.tutsplus.com/articles/creative-examples-of-geometric-web-design-styles--cms-26649?utm_source=facebook&utm_medium=social&utm_campaign=tutswebdesign
@@ -43,6 +43,8 @@
 8. http://www.creativebloq.com/web-design/create-perfect-website-layout-system-121518553
 9. http://www.creativebloq.com/agencies/10-best-new-agency-websites-2016-so-far-71621255
 10. https://www.sitepoint.com/angular-2-tutorial/?utm_content=bufferc1305&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+11. http://designcafeinado.com.br/2016/07/criando-gif-animado-de-neon-no-adobe-photoshop/4/
+12. http://arquiteturadeinformacao.com/user-experience/desenhando-com-dados-reais-direto-do-back-end/?utm_content=buffer668fd&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 
 -------------------------------------------    
 
