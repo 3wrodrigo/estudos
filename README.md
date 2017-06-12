@@ -1,4 +1,4 @@
-#Resoluções de Aprendizado 2016
+#Resoluções de Aprendizado 2017
 
 ##Fazer 10 cursos (4/10)
 
